@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
   "devDependencies": {
     "cypress": "^13.7.3"
   }
 }
+
